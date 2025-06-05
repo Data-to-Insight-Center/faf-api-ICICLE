@@ -73,7 +73,7 @@ That file provides a detailed explanation of each endpoint, including:
 - A description of the endpoint's functionality
 - Example requests demonstrating the expected input format
 
-**Note:** This API requires all attributes to be sent in **JSON** format.
+**Note:** All POST request bodies must be formatted as **JSON**. For GET requests, parameters should be passed as query strings.
 
 
 ---
