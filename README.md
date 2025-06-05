@@ -75,7 +75,6 @@ That file provides a detailed explanation of each endpoint, including:
 
 **Note:** All POST request bodies must be formatted as **JSON**. For GET requests, parameters should be passed as query strings.
 
-
 ---
 ## Acknowledgements
 Thanks to colleagues at Texas Advanced Computing Center (TACC) who are hosting the FAF API as part of the NSF AI ICICLE Institute. Thanks to the US Bureau of Transportation Statistics Freight Analysis Framework for guidance.
