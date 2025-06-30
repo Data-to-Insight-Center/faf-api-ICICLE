@@ -72,7 +72,7 @@ FAF API Server is developed by Indiana University and distributed under the BSD 
 ---
 
 ## Acknowledgements
-Thanks to colleagues at Texas Advanced Computing Center (TACC) who are hosting the FAF API as part of the NSF AI ICICLE Institute. Thanks to the US Bureau of Transportation Statistics Freight Analysis Framework for guidance.
+Thanks to colleagues at Texas Advanced Computing Center (TACC) who are hosting the FAF API as part of the National Science Foundation under award #2112606, AI Institute for Intelligent CyberInfrastructure with Computational Learning in the Environment (ICICLE). Thanks to the US Bureau of Transportation Statistics Freight Analysis Framework for guidance.
 
 ---
 ## References
